@@ -1,4 +1,5 @@
 **WebTools**
+
 This version of WebTools contains a better web experience, that you can use for free.
 
 You can download faster without needing to install an app, such as internet download manager.
@@ -18,4 +19,4 @@ This creates a file called `web-tools.jar` in a directory named target
 * Run the command `java -jar web-tools.jar` in the directory with those files
 **IDE Setup**
 IDE has not come out.
-Do not download any other IDE not claiming to be: ***8X IDE x64***
+Do not download any other IDE not claiming to be: ***88X IDE x64***

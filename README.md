@@ -1,4 +1,3 @@
-#WebTools
 This version of WebTools contains a better web experience, that you can use for free.
 
 You can download faster without needing to install an app, such as internet download manager.
